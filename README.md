@@ -18,9 +18,9 @@ tf.keras.layers.Dense(10, activation = 'softmax')
 
 ## Implementation
 
-Tensorflow 2.0 
-Python 3.7
-Colaboratory
+* Tensorflow 2.0 
+* Python 3.7
+* Colaboratory
 
 ## Dataset
 
