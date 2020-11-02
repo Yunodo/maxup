@@ -30,6 +30,6 @@ Images are cropped to 256 * 256 (pixels)
 
 ## Results
 
-~95.57% on validation dataset
+~95.57% on validation dataset using [Categorical Accuracy](https://www.tensorflow.org/api_docs/python/tf/keras/metrics/CategoricalAccuracy)
 
 
